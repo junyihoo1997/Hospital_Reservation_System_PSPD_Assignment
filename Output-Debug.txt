@@ -1,0 +1,19 @@
+﻿'Assignment Hoo Jun Yi TP038701 PSPD.exe' (Win32): Loaded 'C:\Users\Hoo Jun Yi\Desktop\PSPD assignment\Assignment Hoo Jun Yi TP038701 PSPD\Debug\Assignment Hoo Jun Yi TP038701 PSPD.exe'. Symbols loaded.
+'Assignment Hoo Jun Yi TP038701 PSPD.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'Assignment Hoo Jun Yi TP038701 PSPD.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'Assignment Hoo Jun Yi TP038701 PSPD.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'Assignment Hoo Jun Yi TP038701 PSPD.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'Assignment Hoo Jun Yi TP038701 PSPD.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'Assignment Hoo Jun Yi TP038701 PSPD.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'Assignment Hoo Jun Yi TP038701 PSPD.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'Assignment Hoo Jun Yi TP038701 PSPD.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'Assignment Hoo Jun Yi TP038701 PSPD.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+'Assignment Hoo Jun Yi TP038701 PSPD.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'Assignment Hoo Jun Yi TP038701 PSPD.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'Assignment Hoo Jun Yi TP038701 PSPD.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'Assignment Hoo Jun Yi TP038701 PSPD.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+The thread 0x3f7c has exited with code -1073741510 (0xc000013a).
+The thread 0x369c has exited with code -1073741510 (0xc000013a).
+The thread 0x3b2c has exited with code -1073741510 (0xc000013a).
+The thread 0x3178 has exited with code -1073741510 (0xc000013a).
+The program '[11868] Assignment Hoo Jun Yi TP038701 PSPD.exe' has exited with code -1073741510 (0xc000013a).
